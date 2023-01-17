@@ -26,3 +26,4 @@ const simpleLightboxOptions = {
 };
 
 let gallerySet = new SimpleLightbox(".gallery a", simpleLightboxOptions);
+// pipipi
